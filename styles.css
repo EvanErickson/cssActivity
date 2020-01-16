@@ -10,7 +10,7 @@ header {
 #namePhoto {
   margin-left: 100px;
   margin-top: 30px;
-  width: 70%;
+  width: 800px;
   margin-right: 0 !important;
   float: left;
 }
@@ -36,6 +36,7 @@ header {
   display: inline;
   width: 20%;
   margin-top: 41px;
+  margin-right: 150px;
 }
 
 #contact h2 {
