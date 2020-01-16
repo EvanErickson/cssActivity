@@ -1,0 +1,53 @@
+header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+#namePhoto {
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 70%;
+  margin-right: 0 !important;
+  float: left;
+}
+
+#namePhoto img {
+  float: left;
+  margin-right: 20px;
+}
+#namePhoto h2 {
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#namePhoto p {
+  float: left;
+  
+}
+
+
+#contact {
+  float: right;
+  display: inline;
+  width: 20%;
+  margin-top: 41px;
+}
+
+#contact h2 {
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#contact ul li {
+  list-style-type: disc;
+}
+
+a {
+  color: red;
+}
